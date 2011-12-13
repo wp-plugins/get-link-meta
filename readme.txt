@@ -4,7 +4,7 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3ZBX4QAXRD2
 Tags: link, metadata, description
 Requires at least: 2.5
 Tested up to: 3.3
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 Get Description from Site meta-data
 
@@ -20,6 +20,9 @@ The Plugin adds a meta box to link-add.php and link.php. On Buttonclick the Plug
 
 
 == Changelog ==
+
+= 0.1.1 =
+* Change of Plugin-URL in geturl.js
 
 = 0.1 =
 * Initial Release
