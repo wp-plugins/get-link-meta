@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: lioman
-Donate link: 
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3ZBX4QAXRD24U
 Tags: link, metadata, description
 Requires at least: 2.5
 Tested up to: 3.3
