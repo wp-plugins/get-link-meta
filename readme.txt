@@ -31,4 +31,6 @@ The Plugin adds a meta box to link-add.php and link.php. On Buttonclick the Plug
 = 0.1 =
 * Initial Release
 
+== Screenshots ==
 
+1. Metabox added to linkmanager
