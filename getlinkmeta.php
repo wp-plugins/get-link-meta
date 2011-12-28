@@ -50,7 +50,7 @@ function renderHtml($post, $params)
 <form>
   
   <input type="Hidden" name="versteckt"> 
-  <input type="Button" onclick="getURL('<?php bloginfo('wpurl'); ?>')" value=GetDescription>
+  <input type="Button" onclick="getURL('<?php echo plugins_url( 'getdescription.php', __FILE__ ); ?>')" value=GetDescription>
    </form>
 <div id="descriptionframe">Click on button to get description</div>
   
