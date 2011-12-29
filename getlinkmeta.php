@@ -4,7 +4,7 @@ Plugin Name: Get Link Meta
 Plugin URI: http://wordpress.org/extend/plugins/get-link-meta/
 Description: Get Description from Site meta-data for links and add it to your LinkDB
 Author: Elias Kirchgässner
-Version: 0.1.1
+Version: 0.1.2
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Author URI: http://www.lioman.de/
 Min WP Version: 2.5
