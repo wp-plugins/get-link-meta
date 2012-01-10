@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Get Link Meta
-Plugin URI: http://wordpress.org/extend/plugins/get-link-meta/
+Plugin URI: http://www.lioman.de/plugins-scripte/wordpress-plugin-getlinkmeta/
 Description: Get Description from Site meta-data for links and add it to your LinkDB
 Author: Elias Kirchgässner
 Version: 0.1.2
